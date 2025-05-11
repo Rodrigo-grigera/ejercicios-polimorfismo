@@ -1,0 +1,16 @@
+{
+  "name": "ejer-fuera-clases",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev":"tsc ejercicioFuera.ts && node ejercicioFuera.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
